@@ -3,6 +3,8 @@ module.exports = {
   content: [
     './src**/*.tsx',
     './index.html',
+    './src/components/*.tsx'
+
   ],
   theme: {
     fontFamily:{

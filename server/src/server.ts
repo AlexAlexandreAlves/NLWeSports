@@ -98,7 +98,7 @@ app.get('/ads/:id/discord', async (request, response) => {
 })
 
 app.listen(3333);
-
+/*
 function K(gzipped: any, arg1: number, k: any) {
     throw new Error('Function not implemented.');
 }
@@ -106,3 +106,4 @@ function gzipped(gzipped: any, arg1: number, k: any) {
     throw new Error('Function not implemented.')
 }
 
+*/
